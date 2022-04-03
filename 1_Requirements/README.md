@@ -42,3 +42,8 @@ You'll see all associated tokens from the source code.
  Numbers/Integers: 0 to 9.
  Identifies/ Variables: All alphabetic strings except the keywords, numbers, Pre-processor directive and library strings.
  # Sample source code
+* My source code is provided in the below URL(https://github.com/yamini8309/M1_C_PRO.git)
+* My source code txt:
+*   double sb = 5.0 + 3 + 5.8 + (a + b) + s + c2 + 1c;
+# OUTPUT OF SOURCE CODE
+* ![output](https://user-images.githubusercontent.com/101394631/161424654-230b35be-1626-486d-abba-3ca4b601030e.PNG)
